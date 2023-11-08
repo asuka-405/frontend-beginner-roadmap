@@ -1,7 +1,4 @@
 # Web Development Resources
-
-## Readings
-
 ### HTML
 
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/): HTML tutorials & references.
