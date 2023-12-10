@@ -14,7 +14,7 @@
 - [The Net Ninja: CSS Crash Course for Beginners](https://www.youtube.com/watch?v=hu-q2zYwEYs): Beginner-friendly CSS crash course.
 - [freeCodeCamp: Learn CSS](https://www.freecodecamp.org/news/tag/css/): Free CSS learning resources.
 - [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css): Interactive CSS learning platform.
-- [Kevin Powell's YouTube channel](https://www.youtube.com/watch?v=lpTf8DewBuw): CSS tutorials on YouTube.
+- [Kevin Powell's YouTube channel](https://www.youtube.com/@kevinpowell): CSS tutorials on YouTube.
 - [Kevin Powell's website](https://www.kevinpowell.co/): CSS articles and resources.
 - [Kevin Powell's CSS courses](https://courses.kevinpowell.co/): Paid CSS courses by Kevin Powell.
 - [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference): CSS reference on MDN.
