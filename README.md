@@ -27,8 +27,8 @@
 ## JavaScript
 
 - [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Official JavaScript documentation.
-- [Namaste JavaScript](https://www.youtube.com/watch?v=kYnzfG69oLQ) by Akshay Saini: JavaScript video tutorials.
-- [Web Dev Simplified JavaScript playlist](https://www.youtube.com/playlist?list=PL6n9fC4Bj82_g3tW2W2wH9Q32J14e6qW9): JavaScript video tutorials by Web Dev Simplified.
+- [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&pp=iAQB) by Akshay Saini: JavaScript video tutorials.
+- [Web Dev Simplified playlist](https://www.youtube.com/watch?v=HfTXHrWMGVY&list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq&pp=iAQB): HTML, CSS & JS video tutorials by Web Dev Simplified.
 - [freeCodeCamp JavaScript tutorials](https://www.freecodecamp.org/learn/javascript): FreeCodeCamp's JavaScript tutorials.
 
 ### **Other Resources**
